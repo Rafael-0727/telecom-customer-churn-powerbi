@@ -1,4 +1,4 @@
-<img width="1346" height="756" alt="Age Groups" src="https://github.com/user-attachments/assets/d81bddf0-7d80-40e0-b5fc-d51e80a569f5" /><img width="1462" height="862" alt="Overview" src="https://github.com/user-attachments/assets/55655932-858a-4730-8dff-6b518d398d52" /># Telecom Customer Churn Analysis (Databel)
+# Telecom Customer Churn Analysis (Databel)
 
 ## Executive Summary
 This project analyzes customer attrition for Databel, a telecommunications provider, to identify primary churn drivers and propose targeted retention strategies. The interactive Power BI dashboard examines customer demographics, contract types, account charges, and call usage across 6,600+ accounts.
